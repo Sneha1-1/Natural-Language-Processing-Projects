@@ -1,10 +1,36 @@
 # Twitter Sentiment Analysis
 
-### Dataset: https://www.kaggle.com/datasets/raj713335/twittesentimentanalysis
+## Dataset: https://www.kaggle.com/datasets/raj713335/twittesentimentanalysis
 
-### Language: Python
+## Language: Python
 
-### Description: 
+## Libraries: sklearn, pandas, transformers, nltk, re, seaborn, wordcloud, tensorflow
+
+## Description: 
+Analysis of the sentiments for tweets using different Natural language processing techniques.
+Shape of Dataset: 
+Period of Dataset: 
+Dataset Quality(balanced/unbalanced): Balanced
+
+### Text Pre-processing:
+1. Decontractions
+2. We remove the special characters except #.
+3. Lowercase
+4. Removal of stopwords
+5. Tokenization
+6. Part of speech tagging
+7. Extraction of Verbs/Adjectives/Adverbs/Nouns.
+8. Lemmatization
+
+### Feature Engineering
+1. Date extractions :
+  1. Time of day (day/night)
+  2. Day of week
+  3. Month 
+2. Vectorization for Text data
+3. Hashs tags extractions
+4. Vader score
+5. SentiWordNet score
 
 ### Exploratory Analysis Questionaire: (Text mining questionaires)
 1. When are the most positive/negative tweets occuring (day/night) considering the time of the day
@@ -38,8 +64,7 @@
 ### Machine learning model:
 1. Model name: 
 2. Accuracy:
-3. F1score:
-4. Observation:
+3. Observation:
 
 ### Using Pre-trained model
 1. Model name:

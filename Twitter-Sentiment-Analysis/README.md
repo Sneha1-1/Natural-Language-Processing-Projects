@@ -19,6 +19,18 @@
 10. Most commonly used negative keywords used for writing the negative tweets
 11. What is the period for which the tweets are observed?
 12. Is there any effect of the month on the type of sentiment for the tweet?
+13. Most used hastags
+
+
+### Statistical Concepts used:
+
+1. Chi Square test
+2. Analysis of Variance
+
+### Visualization
+1. Bar Plots
+2. Line Plots
+3. Voilin Plot
 
 ### Vectorization Technique
 1. Tfidf

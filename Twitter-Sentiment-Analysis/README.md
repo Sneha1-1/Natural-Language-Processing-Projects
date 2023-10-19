@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-### Dataset:  https://www.kaggle.com/datasets/tylerdurden73/twitter-btc
+### Dataset: https://www.kaggle.com/datasets/raj713335/twittesentimentanalysis
 
 ### Language: Python
 
@@ -23,7 +23,6 @@
 
 
 ### Statistical Concepts used:
-
 1. Chi Square test
 2. Analysis of Variance
 

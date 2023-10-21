@@ -7,7 +7,7 @@
 2. Language: Python
 3. Description:
 4. Contributors:
-      Tanmay Dwivedi
-      Sneha Bhalerao
-5. Link:
+   Tanmay Dwivedi
+   Sneha Bhalerao
+6. Link:
    

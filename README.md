@@ -3,7 +3,7 @@
 ## Project Overviews:
 
 #### Twitter Sentiment Analysis:
-1. Dataset: https://www.kaggle.com/datasets/tylerdurden73/twitter-btc
+1. Dataset: https://www.kaggle.com/datasets/raj713335/twittesentimentanalysis
 2. Language: Python
 3. Description:
 4. Contributors:
